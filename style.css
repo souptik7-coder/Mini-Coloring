@@ -1,0 +1,21 @@
+h1{
+    color:red;
+}
+button{
+    background-color: brown;
+    color:antiquewhite;
+}
+button:hover{
+    background-color: blueviolet;
+    color:whitesmoke;
+}
+div{
+    height:200px;
+    width:400px;
+    text-align: center;
+    border:2px solid black;
+    margin:10px auto;
+}
+body{
+    text-align: center;
+}
